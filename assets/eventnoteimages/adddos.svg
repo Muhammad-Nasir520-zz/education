@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="36" viewBox="0 0 30 36">
+  <g id="_2dos" data-name="2dos" transform="translate(-0.283)">
+    <g id="Rectangle_64" data-name="Rectangle 64" transform="translate(0.283)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="30" height="36" rx="4" stroke="none"/>
+      <rect x="0.5" y="0.5" width="29" height="35" rx="3.5" fill="none"/>
+    </g>
+    <g id="Rectangle_65" data-name="Rectangle 65" transform="translate(4.283 5)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_65-2" data-name="Rectangle 65" transform="translate(4.283 14)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <g id="Rectangle_65-3" data-name="Rectangle 65" transform="translate(4.283 23)" fill="#fff" stroke="#000" stroke-width="1">
+      <rect width="5" height="5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="4" height="4" fill="none"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" x2="13" transform="translate(11.5 7.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_7" data-name="Line 7" x2="13" transform="translate(11.5 16.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <line id="Line_8" data-name="Line 8" x2="13" transform="translate(11.5 25.5)" fill="none" stroke="#000" stroke-width="1"/>
+    <text id="x" transform="translate(5.283 18)" font-size="6" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">x</tspan></text>
+  </g>
+</svg>

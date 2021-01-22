@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="81" viewBox="0 0 87 81">
+  <g id="Lernen" transform="translate(-601 -136)">
+    <g id="Rectangle_29" data-name="Rectangle 29" transform="translate(601 136)" fill="#707070" stroke="#707070" stroke-width="1">
+      <rect width="87" height="81" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="86" height="80" rx="7.5" fill="none"/>
+    </g>
+    <text id="LERNEN-2" data-name="LERNEN" transform="translate(625 152)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">LERNEN</tspan></text>
+    <g id="Group_70" data-name="Group 70" transform="translate(608 198)">
+      <rect id="Rectangle_35" data-name="Rectangle 35" width="13" height="13" rx="5" transform="translate(0 1)" fill="#fff"/>
+      <text id="_" data-name="!" transform="translate(5 11)" fill="#707070" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">!</tspan></text>
+    </g>
+    <text id="Notiz_3" data-name="Notiz 3" transform="translate(629 209)" fill="#fff" font-size="10" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Notiz 3</tspan></text>
+    <g id="Group_72" data-name="Group 72" transform="translate(608 140)">
+      <g id="Rectangle_35-2" data-name="Rectangle 35" transform="translate(0 1)" fill="none" stroke="#fff" stroke-width="1">
+        <rect width="13" height="13" rx="6.5" stroke="none"/>
+        <rect x="0.5" y="0.5" width="12" height="12" rx="6" fill="none"/>
+      </g>
+      <text id="i" transform="translate(5 11)" fill="#fff" font-size="10" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+    </g>
+    <text id="Nina" transform="translate(658 177)" fill="#fff" font-size="11" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Nina</tspan></text>
+  </g>
+</svg>

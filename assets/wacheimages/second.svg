@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="81" viewBox="0 0 87 81">
+  <g id="PoWi" transform="translate(-120)">
+    <g id="Rectangle_22" data-name="Rectangle 22" transform="translate(120)" fill="#f5f5f5" stroke="#707070" stroke-width="1">
+      <rect width="87" height="81" rx="8" stroke="none"/>
+      <rect x="0.5" y="0.5" width="86" height="80" rx="7.5" fill="none"/>
+    </g>
+    <text id="PoWi-2" data-name="PoWi" transform="translate(172 23)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">PoWi</tspan></text>
+    <text id="Fr._Stolz" data-name="Fr. Stolz" transform="translate(158 53)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">Fr. Stolz</tspan></text>
+    <text id="_301" data-name="301" transform="translate(180 72)" font-size="12" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">301</tspan></text>
+    <path id="Path_143" data-name="Path 143" d="M19.687,14.786H15.97V11.069H17.2V7.393H15.936a5.545,5.545,0,0,0-4.868-4.908V1.225h2.451V0H9.843V2.485A5.545,5.545,0,0,0,4.976,7.393H3.717v3.676H4.942v3.717H1.225v2.451H0v3.676H20.912V17.236H19.687ZM10.456,3.676A4.308,4.308,0,0,1,14.7,7.393H6.211A4.308,4.308,0,0,1,10.456,3.676ZM4.942,8.618H15.97V9.843H4.942Zm9.8,2.451v3.717H13.519V11.069Zm-2.451,0v3.717H11.069V11.069Zm-2.451,0v3.717H8.618V11.069Zm-2.451,0v3.717H6.167V11.069Zm12.294,8.618H1.225V18.461H6.167V17.236H2.451V16.011H18.461v1.225H14.745v1.225h4.942Z" transform="translate(123 7)"/>
+  </g>
+</svg>
